@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyoti6161
 - 👀 I’m interested in ...to explore the data science skills
-- 🌱 I’m currently learning ...I am student of S.Y.B.Tech(CSE Data science) 
+- 🌱 I’m currently learning ...I am student of Final year B.Tech(CSE Data science) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...chougale2002@gmail.com
 
